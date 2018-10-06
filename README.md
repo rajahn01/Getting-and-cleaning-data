@@ -10,4 +10,4 @@ The R code file (run_analysis.R) does five things. It:
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The tidydata.txt file includes data on the mean and standard deviation of 89 variables which are described in the code book. The variables included in tidydata.txt capture data collected from the 30 participants who undertook the six activities. 
+The tidydata.txt file includes data on the mean and standard deviation of 68 variables which are described in the code book. The variables included in tidydata.txt capture data collected from the 30 participants who undertook the six activities. 
