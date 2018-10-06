@@ -1,6 +1,6 @@
 Codebook
 
-This codebook summarises the data in tidytext.txt. 
+This codebook summarises the data in tidydata.txt. 
 It provides details of each variable in the data set that has been generated from the Human Activity Recognition Using Smartphone Dataset. 
 Note that all test result variables are normalized and bounded within [-1,1].
 
@@ -11,7 +11,7 @@ Number of variables
 68
 
 For each of the variables in the data the following information is included:
-Details of the variable name
+The variable name
 The class of the variable
 The number of unique values
 % of missing
